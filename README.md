@@ -1,4 +1,4 @@
-# co5a445a1a9b4e58a652cdeb9
+# get random emoji
 
 Quick start:
 
